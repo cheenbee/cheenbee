@@ -1,3 +1,4 @@
-[![bingooo's github stats](https://github-readme-stats.vercel.app/api?username=cheenbee&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cheenbee&count_private=true&show_icons=true&theme=nightowl&show_icons=true&hide_title=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheenbee&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋
+
